@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshith Kethireddy</h1>
 <h3 align="center">A passionate ML enthusiast from IIT Jodhpur</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVjNzkxZmY1NTZhYWYxNTdjNTkyOTFlYjU5MTU1ZTdkODYwMDdiNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+
 - 🔭 I’m currently working on **ID-Selfie Face Recognition** as an intern under Dr.Richa Singh and am also working on **Histopathological Image Analysis** under Dr.Angshuman Paul
 
 - 🌱 I’m currently trying to specialize myself in **Machine Learning**

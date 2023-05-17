@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently trying to specialize myself in **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/harshith-kethireddy-a44908204/](https://www.linkedin.com/in/harshith-kethireddy-a44908204/)
+- 👨‍💻 All of my projects are available at [My Linkedin Profile Page](https://www.linkedin.com/in/harshith-kethireddy-a44908204/details/projects/)
 
 - 📫 How to reach me **harshithkethireddy@gmail.com**
 

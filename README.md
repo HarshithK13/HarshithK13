@@ -3,13 +3,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVjNzkxZmY1NTZhYWYxNTdjNTkyOTFlYjU5MTU1ZTdkODYwMDdiNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Object classification Attention-Based CNN using Drone Imagery** as an intern under Dr.Binod Kumar and am also working on **DL-Based Diagnosis of Thyroid Tumours using Secondary Harmonic Image Analysis** under Dr.Angshuman Paul
+- 🔭 I’m currently pursuing my Masters degree at the University of Michigan - Dearborn in the field of Artificial Intelligence with a specialization in Machine Learning. I am working on **DL-Based Diagnosis of Thyroid Tumours using Secondary Harmonic Image Analysis** under Dr.Angshuman Paul.
 
-- 🌱 I’m currently trying to specialize myself in **Machine Learning**
+- 🌱 I’m currently trying to gain as much knowledge as possible in **Machine Learning** and have recently started to engage myself in learning and solving **DSA problems** on a regular basis.
 
-- 👨‍💻 All of my projects are available at [My Linkedin Profile Page](https://www.linkedin.com/in/harshith-kethireddy-a44908204/details/projects/)
+- 👨‍💻 The descriptions to all of my projects are available at [My Linkedin Profile Page](https://www.linkedin.com/in/harshith-kethireddy-a44908204/details/projects/).
 
-- 📫 How to reach me **harshithkethireddy@gmail.com**
+- 📫 How to reach me **harshithkethireddy@gmail.com**, **kharshi@umich.edu**, **reddy.16@iitj.ac.in**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

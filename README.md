@@ -1,9 +1,9 @@
 <h1 align="center">Heyaa! I'm Harshith. Happy to see you here! :)</h1>
-<h3 align="center">A passionate ML enthusiast from IIT Jodhpur</h3>
+<h3 align="center">A passionate ML enthusiast from University of Michigan - Dearborn</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWVjNzkxZmY1NTZhYWYxNTdjNTkyOTFlYjU5MTU1ZTdkODYwMDdiNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently pursuing my Masters degree at the University of Michigan - Dearborn in the field of Artificial Intelligence with a specialization in Machine Learning.
+- 🔭 I’m currently pursuing my Masters degree at the University of Michigan - Dearborn in the field of **Artificial Intelligence with a specialization in Machine Learning**.
 
 - 💪 I'm working on **DL-Based Diagnosis of Thyroid Tumours using Secondary Harmonic Image Analysis** under Dr.Angshuman Paul.
 

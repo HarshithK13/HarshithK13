@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently pursuing my Masters degree at the University of Michigan - Dearborn in the field of **Artificial Intelligence with a specialization in Machine Learning**.
 
-- 💪 I'm working on **Reinforcement Learning** under Dr.Srijita Das.
+- 💪 I'm trying to get deep on **Reinforcement Learning** under Dr.Srijita Das, as a Research Assistant.
+
+-  I'm working as a Teaching Assistant under Dr.Khalid Kattan for the course **Deep Learning**.
 
 - 🌱 I’ve been trying to gain as much knowledge as possible in **Machine Learning** and the progress so far is in **2 Research Papers**!!
 

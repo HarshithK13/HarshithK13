@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently pursuing my Masters degree at the University of Michigan - Dearborn in the field of **Artificial Intelligence with a specialization in Machine Learning**.
 
-- 💪 I'm working on **DL-Based Diagnosis of Thyroid Tumours using Secondary Harmonic Image Analysis** under Dr.Angshuman Paul.
+- 💪 I'm working on **Reinforcement Learning** under Dr.Srijita Das.
 
-- 🌱 I’m currently trying to gain as much knowledge as possible in **Machine Learning** and have recently started to engage myself in learning and solving **DSA problems** on a regular basis.
+- 🌱 I’ve been trying to gain as much knowledge as possible in **Machine Learning** and the progress so far is in **2 Research Papers**!!
 
 - 👨‍💻 The descriptions to all of my projects are available at [My Linkedin Profile Page](https://www.linkedin.com/in/harshith-kethireddy-a44908204/details/projects/).
 
-- 📫 How to reach me **harshithkethireddy@gmail.com**, **kharshi@umich.edu**, **reddy.16@iitj.ac.in**.
+- 📫 How to reach me **harshithkethireddy@gmail.com**, **kharshi@umich.edu**, **reddy.16@alumni.iitj.ac.in**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

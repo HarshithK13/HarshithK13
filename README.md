@@ -7,9 +7,11 @@
 
 - 💪 I'm trying to get deep on **Reinforcement Learning** under Dr.Srijita Das, as a Research Assistant.
 
--  I'm working as a Teaching Assistant under Dr.Khalid Kattan for the course **Deep Learning**.
-
 - 🌱 I’ve been trying to gain as much knowledge as possible in **Machine Learning** and the progress so far is in **2 Research Papers**!!
+
+- Differential Diagnosis of Thyroid Tumors Through Information Fusion from Multiphoton Microscopy Images Using Fusion Autoencoder: https://link.springer.com/chapter/10.1007/978-3-031-78201-5_6
+
+- Multi-Object Detection Through Meta-Training in Resource-Constrained UAV-Based Surveillance Applications: https://ieeexplore.ieee.org/document/10900641
 
 - 👨‍💻 The descriptions to all of my projects are available at [My Linkedin Profile Page](https://www.linkedin.com/in/harshith-kethireddy-a44908204/details/projects/).
 
